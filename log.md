@@ -12,7 +12,7 @@
 
 **Today's Progress:** Still racing through some already familiar subjects on FreeCodeCamp.
 
-**Thoughts:** Coding on a Friday night after coding at work all day when you've just inherited the office bug going around, I'll take a rain check, thanks. I must say though, it feels somewhat justifiable to blame yesterday's lack of commitment and a distraught attitude to my immense displeasure in watching Trump's pathetic swearing in and the humiliating ball performances that followed later that night. Nonetheless, no excuses. Only logged ~ 30 minutes yesterday. Slip up on day 2 of 100, great start!
+**Thoughts:** Coding on a Friday night after coding at work all day when you've just inherited the office bug going around, I'll take a rain check, thanks. I must say though, it feels somewhat justifiable to blame yesterday's lack of commitment and a distraught attitude to my immense displeasure in watching Trump's pathetic swearing in and the humiliating ball performances that followed later that night. Nonetheless, no excuses; only ~ 30 minutes logged yesterday. Slip up on day 2 of 100, great start!
 
 **Link(s) to work:** [Challenges completed on Day 2 (Jan 20, 2017)](https://www.freecodecamp.com/mjoanisse)
 
