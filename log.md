@@ -23,3 +23,11 @@
 **Thoughts:** Back in the sack! Finally into the js realm now (at least), hoping to get cracking on a project within the next couple of days. General project concept idea is there, only thing left to do is start. Maybe tomorrow?
 
 **Link(s) to work:** [Challenges completed on Day 3 (Jan 21, 2017)](https://www.freecodecamp.com/mjoanisse)
+
+### Day 4: Sunday, January 22
+
+**Today's Progress:** jQuery map completed, projects now underway.
+
+**Thoughts:** Building a simple Tecumseh tribute page using Bootstrap framework. Will complete and submit site tomorrow and move onto re-initiating work efforts to finish up my portfolio site.
+
+**Link(s) to work:** [Challenges completed on Day 4 (Jan 22, 2017)](https://www.freecodecamp.com/mjoanisse)
